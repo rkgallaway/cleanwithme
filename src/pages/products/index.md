@@ -52,13 +52,13 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A purple gerbera daisy
     image: /img/bloom-blooming-blossom-36753.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: A purple gerbera daisy
     image: /img/bloom-blooming-blossom-36753.jpg
   image3:
-    alt: Coffee beans
+    alt: A purple gerbera daisy
     image: /img/bloom-blooming-blossom-36753.jpg
 testimonials:
   - author: Jane Customer
@@ -78,7 +78,7 @@ pricing:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
+      plan: weekly
       price: '50'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
